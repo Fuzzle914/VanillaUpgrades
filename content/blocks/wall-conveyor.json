@@ -8,6 +8,6 @@
       {"item": "metaglass", "amount": 1},
     ],
     "category": "distribution",
-    "speed": 0.01,
+    "speed": 0.05,
     "research": "armored-conveyor"
 }
