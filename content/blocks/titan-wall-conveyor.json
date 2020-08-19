@@ -4,10 +4,10 @@
     "description": "Functions like an armored conveyor, but is cheaper and has the health of a titanium conveyor",
     "health": 65,
     "requirements": [
-        {"item": "copper", "amount": 1},
-        {"item": "lead", "amount": 1},
-        {"item": "titanium", "amount": 2},
-        {"item": "silicon", "amount": 3}
+      {"item": "copper", "amount": 1},
+      {"item": "lead", "amount": 1},
+      {"item": "titanium", "amount": 2},
+      {"item": "silicon", "amount": 3},
     ],
     "category": "distribution",
     "speed": 0.075,
