@@ -10,6 +10,6 @@
       {"item": "silicon", "amount": 3},
     ],
     "category": "distribution",
-    "speed": 0.075,
+    "speed": 0.077,
     "research": "wall-conveyor"
 }
