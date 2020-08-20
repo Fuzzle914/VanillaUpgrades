@@ -1,7 +1,7 @@
 {
     "type": "ArmoredConveyor",
     "name": "Titanium Armored Conveyor",
-    "description": "Functions like an armored conveyor, but is cheaper and has the health of a titanium conveyor",
+    "description": "Functions like an armored conveyor, but is cheaper and has the health of a titanium conveyor.",
     "health": 65,
     "requirements": [
       {"item": "copper", "amount": 1},
