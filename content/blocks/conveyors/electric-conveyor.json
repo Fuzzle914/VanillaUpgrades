@@ -6,6 +6,8 @@
     "hasPower": true
     "consumes": {
                powerBuffered: 60
+                }
+    "consumes": {
                power: 0.0166
                 }
     "requirements": [
