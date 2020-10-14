@@ -1,0 +1,19 @@
+{
+    "type": "ArmoredConveyor",
+    "name": "Electrical Conveyor",
+    "description": "Requires power to transport items. Will power buildings on the side of it.",
+    "health": 60,
+    "hasPower": true
+    "consumes": {
+               powerBuffered: 60
+               power: 0.0166
+                }
+    "requirements": [
+      {"item": "surge-alloy", "amount": 3},
+      {"item": "metaglass", "amount": 2},
+      {"item": "silicon", "amount": 4},
+    ],
+    "category": "distribution",
+    "speed": 1,
+    "research": "surge-conveyor"
+}
