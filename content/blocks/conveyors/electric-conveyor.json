@@ -1,5 +1,6 @@
 {
     "type": "ArmoredConveyor",
+    "type": "battery",
     "name": "Electrical Conveyor",
     "description": "Requires power to transport items. Will power buildings on the side of it.",
     "health": 60,
