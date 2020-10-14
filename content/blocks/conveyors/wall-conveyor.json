@@ -1,0 +1,13 @@
+{
+    "type": "ArmoredConveyor",
+    "name": "Weak Armored Conveyor",
+    "description": "Functions like an armored conveyor, but has the health and speed of regular conveyors.",
+    "health": 45,
+    "requirements": [
+      {"item": "copper", "amount": 2},
+      {"item": "metaglass", "amount": 1},
+    ],
+    "category": "distribution",
+    "speed": 0.03,
+    "research": "armored-conveyor"
+}
