@@ -1,6 +1,6 @@
 {
     "type": "ArmoredConveyor",
-    "name": "'Smart' Conveyor",
+    "name": "'Smart' Titanium Conveyor",
     "description": "Cheaper and weaker armored conveyor. Doesn't have 'Shitting issues'",
     "health": 65,
     "requirements": [
