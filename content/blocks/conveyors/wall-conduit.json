@@ -4,7 +4,7 @@
     "description": "Basic Conduit that doesn't accept item input from the sides, except from other conduits. Functionally a cheaper armored conduit, prevents 'shitting issues' and doesn't leak.",
     "health": 45,
     "requirements": [
-      {"item": "glass", "amount": 2},
+      {"item": "metaglass", "amount": 2},
       {"item": "graphite", "amount": 1},
     ],
     "category": "liquid",
