@@ -1,6 +1,7 @@
 {
     "name": "Vanilla Upgrades",
     "author": "Fuzzle914",
-    "description": "A Mindustry mod that adds some vanilla-like blocks and items to the game."
+    "description": "Mitchell Mod."
     "version": 1.2
+    minVersion:154
 }
