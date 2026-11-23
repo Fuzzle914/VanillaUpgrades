@@ -1,0 +1,14 @@
+{
+    "type": "PlatedConduit",
+    "name": "'Smart' Pulse Conduit",
+    "description": "Pulse Conduit that doesn't accept fluid input from the sides, except from other conduits. Functionally a cheaper armored conduit, prevents 'shitting issues' and doesn't leak.",
+    "health": 90,
+    "requirements": [
+      {"item": "glass", "amount": 1},
+      {"item": "titanium", "amount": 2},
+      {"item": "graphite", "amount": 2},
+    ],
+    "category": "liquid",
+    "speed": 0.08,
+    "research": "plated-conduit"
+}
