@@ -1,13 +1,13 @@
 {
     "type": "ArmoredConveyor",
     "name": "Titanium Armored Conveyor",
-    "description": "Functions like an armored conveyor, but is cheaper and has the health of a titanium conveyor.",
+    "description": "Cheaper and weaker armored conveyor. Doesn't have 'Shitting issues'",
     "health": 65,
     "requirements": [
       {"item": "copper", "amount": 1},
       {"item": "lead", "amount": 1},
       {"item": "titanium", "amount": 2},
-      {"item": "silicon", "amount": 3},
+      {"item": "graphite", "amount": 1},
     ],
     "category": "distribution",
     "speed": 0.08,
