@@ -1,5 +1,5 @@
 {
-    minGameVersion: 159
+    minGameVersion: "159"
     "name": "Vanilla Upgrades",
     "author": "Fuzzle914",
     "description": "Mitchell Mod."
