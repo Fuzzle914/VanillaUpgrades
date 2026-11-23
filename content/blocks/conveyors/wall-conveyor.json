@@ -1,11 +1,11 @@
 {
     "type": "ArmoredConveyor",
-    "name": "Weak Armored Conveyor",
-    "description": "Functions like an armored conveyor, but has the health and speed of regular conveyors.",
+    "name": "'Smart' Conveyor",
+    "description": "Basic conveyor that doesn't accept item input from the sides, except from other conveyors. Functionally a cheaper armored conveyor, prevents 'shitting issues'.",
     "health": 45,
     "requirements": [
       {"item": "copper", "amount": 2},
-      {"item": "metaglass", "amount": 1},
+      {"item": "graphite", "amount": 1},
     ],
     "category": "distribution",
     "speed": 0.03,
